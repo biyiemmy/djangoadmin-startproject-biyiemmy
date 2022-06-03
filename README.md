@@ -1,6 +1,7 @@
 # djangoadmin-startproject-biyiemmy
 Getting started on Django
 
-Initialize it, 
-Install Django in it,
-Create a new Django project in it
+Initialize it,
+Create a virtual enviroment,
+Install Django,
+Create a new Django project in it.
